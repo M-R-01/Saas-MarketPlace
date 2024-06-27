@@ -1,0 +1,26 @@
+.productContainer {
+    background-color: #fff;
+    margin-left: 30px;
+    display: flex;
+    height: auto;
+    max-width: 1000px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.productImage {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    margin-top: 25px;
+    margin-left: 25px;
+    border-radius: 5px;
+    box-shadow: 10 2px 4px rgba(129, 49, 49, 0.1);
+}
+
+
+.productContent {
+    margin-left: 40px;
+    margin-right: 50px;
+}

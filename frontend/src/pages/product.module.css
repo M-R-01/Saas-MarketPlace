@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    gap: 36px;
+}
+
+.contentContainer {
+    margin-left: 125px;
+    width: 850px;
+}
+
+.image {
+    height: 420px;
+    width: 850px;
+    background-color: black;
+    border-radius: 12px;
+}
+
+.productImage {
+    height: 100%;
+    width: 100%;
+}
+
+.imageDiv {
+    height: 45%;
+}
+
+.productInfo {
+    height: 720px;
+    width: 380px;
+    background-color: #fff;
+    margin-top: 52px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);;
+    text-align: center;
+}

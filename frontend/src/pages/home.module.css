@@ -1,0 +1,67 @@
+.slider {
+    width: 98vw;
+    height: 550px;
+    border-radius: 12px;
+    margin: 0 auto;
+    margin-top: 80px;
+    background-color: blue;
+}
+
+.product {
+    height: 500px;
+    width: 97%;
+    background-color: #aaaaaa;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.productImage {
+    height: 42%;
+    width: 100%;
+    background-color: black;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.productTitle {
+    margin-top: -1px;
+}
+
+.productCategory {
+    margin-top: -18px;
+}
+
+.productDescription {
+    margin-left: 13px;
+    margin-right: 13px;
+}
+
+.productPrice {
+    margin-bottom: 5px;
+}
+
+.searchMenu {
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 75vw;
+}
+
+.search {
+    width: 67%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    outline: none;
+    border: 2px solid black;
+}
+
+.searchButton,.filterButton {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    width: 15%;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-left: 3px;
+}
